@@ -1,2 +1,2 @@
 # react-python
-consumo de api criada em python com react
+consumo de api criada em python com ReactJs
